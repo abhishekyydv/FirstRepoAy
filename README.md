@@ -1,2 +1,2 @@
 # FirstRepoAy
-My First Repository on Git Hub
+This is my first Git Repository
